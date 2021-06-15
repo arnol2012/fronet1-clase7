@@ -1,0 +1,55 @@
+header {background-color: rgba(60, 76, 82, 0.37);
+text-align: center;
+}
+
+header img {
+    border-radius: 50%;
+    width: 10em;
+    padding: 2em;
+}
+
+.seccion-academica ul, .seccion-laboral ul{
+    list-style-type: none;
+}  
+
+.seccion-personales ul li strong{
+    font-style: italic;
+}
+.seccion-cv h3{
+    background-color: #c4c4c4;
+    padding: 0.3em;
+}
+
+.sublista{
+    list-style-type: none;
+}
+
+main h1 {
+    padding: 0.5em;
+    text-align: center;
+    color: #005677;
+    background-color: #c4c4c4;
+    margin-top: 0;
+}
+
+section{
+    margin: 5em 20em;
+}
+
+article h3{
+    color: 005677;
+}
+
+footer{
+    background-color: #005677;
+    text-align: center;
+}
+
+footer ul{
+    list-style-type: none;
+    color: white;
+}
+
+footer ul li{
+    display: inline;
+}
